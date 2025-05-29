@@ -54,7 +54,7 @@ margin-bottom: 10px;
 }
 .left-headings{
 
-    background: gray;
+     background: rgb(96, 94, 94);
     align-items: center;
     width: 200px;
     margin-left: 45px;
@@ -63,6 +63,7 @@ margin-bottom: 10px;
     padding-top: 5px;
     height: 30px;
     border-radius: 60px;
+    color: white;
 
     
 }
@@ -81,7 +82,7 @@ margin-bottom: 10px;
 
 }
 .SKILLS{
-    background: gray;
+    background: rgb(96, 94, 94);
     align-items: center;
     width: 200px;
     margin-left: 45px;
@@ -90,6 +91,7 @@ margin-bottom: 10px;
     padding-top: 5px;
     height: 30px;
     border-radius: 60px;
+    color: white;
 
 }
 .left-headings p,ul{
@@ -152,7 +154,7 @@ margin-bottom: 10px;
      width: 200px;
       background:rgb(239, 238, 238);
       margin-left: 30px;
-      padding-left: 0px;
+     
      
       padding-left: 0px;
      
@@ -171,5 +173,8 @@ margin-bottom: 10px;
             padding-top: 30px;
         
 
+}
+.sub-3 p{
+    margin-left: -40px;
 }
 
