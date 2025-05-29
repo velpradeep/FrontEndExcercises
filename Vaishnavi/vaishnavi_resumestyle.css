@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
    
     
 }
@@ -109,14 +110,30 @@ margin-bottom: 10px;
 .job{
     background:rgb(239, 238, 238);
     width: 360px;
-    padding-top: 5px;
+    padding-bottom: 20px;
     margin-left: 30px;
     height: 30px;
-    padding-bottom: 10px;
+    text-align: center;
     padding-left: 0px;
+    display: flex;
+    justify-content: space-between;
 }
 .job p{
     padding-right: 0px;
+    padding-bottom: 30px;
+    width: 200px;
+    margin-left: -57px;
+    height: 6px;
+    margin-top: -10px;
+   
+}
+.job time{
+    margin-top: 8px;
+    margin-right: 10px;
+    height: 6px;
+      padding-bottom: 30px;
+
+
 }
 .Lorem{
     text-align: justify;
@@ -125,6 +142,8 @@ margin-bottom: 10px;
 .ref{
     
       display: flex;
+      
+   
      
     
 }
@@ -148,8 +167,9 @@ margin-bottom: 10px;
           height: 200px;
             width: 160px;
             padding-left: 5px;
-            margin-left: 5px;
+           
             padding-top: 30px;
+        
 
 }
 
